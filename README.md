@@ -2,4 +2,5 @@
 	this one is the first git commit
 
 Trying to change the editor of the git commit
+bhaii yaar chage kar diya mai text editor 
 
