@@ -6,6 +6,4 @@ bhaii yaar chage kar diya mai text editor
 are pata hai bhai tujhe commit kar sakte hai pehle v 
 adding new line for merging into master
 
-i am changing same line for conflict
-
-
+this one not affect much
