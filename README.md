@@ -4,4 +4,7 @@
 Trying to change the editor of the git commit
 bhaii yaar chage kar diya mai text editor 
 are pata hai bhai tujhe commit kar sakte hai pehle v 
+adding new line for merging into master
+
+hwo it is happen
 
